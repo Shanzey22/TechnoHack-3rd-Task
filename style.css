@@ -1,0 +1,25 @@
+body{
+    color: /*rgb(123, 0, 255)*/rgb(16, 16, 16);
+    background-color: rgb(132, 198, 226);
+    font-size: 20px;
+}
+a{
+        text-decoration: none;
+      color: rgb(0, 17, 255);
+      font-size: larger;
+    }
+    div{
+        background-color: rgb(48, 165, 216);
+        color:rgb(15, 15, 15);
+        height:auto;
+        width:700px;
+     margin-left:410px;
+     padding:20px;
+    }
+    label{
+        display: inline-block;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+
+    }
